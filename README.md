@@ -2,4 +2,4 @@
 
 First iOS app 
 
-![gameplay](./githubassets/gameplay)
+![gameplay](./githubassets/gameplay.png)
